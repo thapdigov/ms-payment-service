@@ -1,28 +1,10 @@
-# Project name:    MS-PAYMENT-SERVICE
-                                               
-                                               
-                                               
-                                               
-                                               MS-PAYMENT-SERVICE
-
-                                                                      
-                              Empowering Seamless Payments, Accelerating Business Growth                    
-
-
-                                          Built with the tools and technologies 
-                                          
-
-                     Spring | PostgreSQL | FeignClient| Liquibase |  RabbitMQ | DOCKER | JUnit | YAML 
-
-
-
+# Project name:           MS-PAYMENT-SERVICE
+                                                                                                                                   
 ## Table of Contents
 
 - [Overview](#overview)
-- [Why ms-payment-service?](#why-ms-payment-service)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
+- [Built with the tools and technologies](#builtwiththetoolsandtechnologies)
+- [Clone the repository](#clonetherepository)
 
                      
                      
@@ -30,6 +12,7 @@
 ## Overview
 
 ms-payment-service is a microservice designed to facilitate secure, reliable payment processing within a scalable, containerized architecture. Built with Spring Boot and orchestrated via Docker, it integrates seamlessly with core services like authentication, account management, and messaging queues to support complex financial workflows.
+
 
 Why ms-payment-service?
 
@@ -49,6 +32,13 @@ This project aims to streamline payment operations in distributed systems. The c
 
 
 
-Clone the repository:
+
+##  Built with the tools and technologies
+
+Spring | PostgreSQL | FeignClient| Liquibase |  RabbitMQ | DOCKER | JUnit | YAML 
+
+
+
+## Clone the repository
 
 git clone https://github.com/thapdigov/ms-payment-service
