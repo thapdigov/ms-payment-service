@@ -41,4 +41,4 @@ Spring | PostgreSQL | FeignClient| Liquibase |  RabbitMQ | DOCKER | JUnit | YAML
 
 ## Clone the repository
 
-git clone https://github.com/thapdigov/ms-payment-service
+git clone https://github.com/thapdigov/ms-payment-service.git
