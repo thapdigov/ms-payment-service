@@ -1,12 +1,12 @@
-                                                                       MS-PAYMENT-SERVICE
+                                               MS-PAYMENT-SERVICE
 
                                                                       
-                                                   Empowering Seamless Payments, Accelerating Business Growth                    
+                              Empowering Seamless Payments, Accelerating Business Growth                    
 
 
-                                                               Built with the tools and technologies 
+                                          Built with the tools and technologies 
 
-                                                 Spring | PostgreSQL | FeignClient| Liquibase |  RabbitMQ | DOCKER | JUnit | YAML 
+                     Spring | PostgreSQL | FeignClient| Liquibase |  RabbitMQ | DOCKER | JUnit | YAML 
 
 
 
