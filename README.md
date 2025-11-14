@@ -9,7 +9,7 @@
                      
                      
 
-## Overview
+## overview
 
 ms-payment-service is a microservice designed to facilitate secure, reliable payment processing within a scalable, containerized architecture. Built with Spring Boot and orchestrated via Docker, it integrates seamlessly with core services like authentication, account management, and messaging queues to support complex financial workflows.
 
@@ -33,12 +33,12 @@ This project aims to streamline payment operations in distributed systems. The c
 
 
 
-##  Built with the tools and technologies
+##  builtwiththetoolsandtechnologies
 
 Spring | PostgreSQL | FeignClient| Liquibase |  RabbitMQ | DOCKER | JUnit | YAML 
 
 
 
-## Clone the repository
+## clonetherepository
 
 git clone https://github.com/thapdigov/ms-payment-service
