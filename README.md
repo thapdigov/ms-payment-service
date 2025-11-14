@@ -3,8 +3,8 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Built with the tools and technologies](#builtwiththetoolsandtechnologies)
-- [Clone the repository](#clonetherepository)
+- [Built with the tools and technologies](#built-with-the-tools-and-technologies)
+- [Clone the repository](#clone-the-repository)
 
                      
                      
