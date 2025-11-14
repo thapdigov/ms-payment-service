@@ -16,9 +16,14 @@
 
 
 
-## Table of Contents 
+## Table of Contents
 
-- [Overview](overview)
+- [Overview](#overview)
+- [Why ms-payment-service?](#why-ms-payment-service)
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+
                      
                      
 
