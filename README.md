@@ -35,7 +35,7 @@ This project aims to streamline payment operations in distributed systems. The c
 
 ##  Built with the tools and technologies
 
-Spring | PostgreSQL | FeignClient| Liquibase |  RabbitMQ | DOCKER | JUnit | YAML 
+Spring |  PostgreSQL |  Liquibase  |  FeignClient  |  RabbitMQ  |  DOCKER  |  JUnit  |  YAML 
 
 
 
