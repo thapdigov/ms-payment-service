@@ -1,4 +1,12 @@
-                                                                      MS-PAYMENT-SERVICE
+                                                                       MS-PAYMENT-SERVICE
+
+                                                                      
+                                                   Empowering Seamless Payments, Accelerating Business Growth                    
+
+
+                                                               Built with the tools and technologies 
+
+                                                 Spring | PostgreSQL | FeignClient| Liquibase |  RabbitMQ | DOCKER | JUnit | YAML 
 
 
 
@@ -18,5 +26,6 @@ This project aims to streamline payment operations in distributed systems. The c
 
 🔍📊 Observability & Logging: Aspect-oriented logging for enhanced debugging and monitoring.
 
+🔐🔑 Security & Authentication: Stateless, token-based security policies for protected endpoints.
 
-                                                        
+🗄️📊 Data Models & Persistence: Robust database schemas and repositories for payment, account, and risk data management.                                      
