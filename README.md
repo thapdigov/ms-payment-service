@@ -31,4 +31,10 @@ This project aims to streamline payment operations in distributed systems. The c
 
 🔐🔑 Security & Authentication: Stateless, token-based security policies for protected endpoints.
 
-🗄️📊 Data Models & Persistence: Robust database schemas and repositories for payment, account, and risk data management.                                      
+🗄️📊 Data Models & Persistence: Robust database schemas and repositories for payment, account, and risk data management.  
+
+
+
+Clone the repository:
+
+git clone https://github.com/thapdigov/ms-payment-service
